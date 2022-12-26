@@ -1,0 +1,12 @@
+@import url("../bootstrap/bootstrap.min.css");
+@import url("../admin/layout/layout.css");
+
+
+.admin-page-test {
+    font-size: 16rem;
+    display: flex;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
